@@ -129,10 +129,10 @@ GET /api/weather/:city: Proxy to OpenWeatherMap
 
 ### Usage
 
-Run npm run dev and visit http://localhost:5173.
-The app loads with New Delhi’s weather by default.
-Enter a city name in the search bar and click the search icon.
-View weather details: temperature (°C), humidity (%), wind speed (km/hr), and weather icon.
+- Run npm run dev and visit http://localhost:5173.
+- The app loads with New Delhi’s weather by default.
+- Enter a city name in the search bar and click the search icon.
+- View weather details: temperature (°C), humidity (%), wind speed (km/hr), and weather icon.
 
 
 [Add usage details here, e.g., error messages, additional features]
