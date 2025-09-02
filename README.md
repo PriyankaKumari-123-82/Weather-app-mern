@@ -121,9 +121,10 @@ appid: Your API key
 **Response:** Includes temperature (Kelvin, converted to °C), humidity, wind speed, location, and weather icon
 
 
-Planned Backend:
-
+** Planned Backend:**
+```bash
 GET /api/weather/:city: Proxy to OpenWeatherMap
+```
 [Add endpoints here, e.g., /api/history for MongoDB storage]
 
 
